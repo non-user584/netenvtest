@@ -2,6 +2,6 @@ class program
 {
     static void Main()
     {
-        Console.WriteLine("Exito!!!")
+        Console.WriteLine("Exito!!!");
     }
 }
